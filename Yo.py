@@ -5,4 +5,5 @@ print("What?")
 
 print("Nani!")
 print("dafuq")
-print("lol")
+print("lololololol")
+print("LOL Suck Dota2 is batter!")
