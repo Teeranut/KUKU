@@ -5,3 +5,4 @@ print("What?")
 
 print("Nani!")
 print("dafuq")
+print("lol")
